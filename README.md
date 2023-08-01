@@ -1,5 +1,5 @@
 # Projeto Layout Youtube
-Um projeto onde desenvolvi o layout do youtube usando o grid como base. 🚀🛸
+Um projeto onde recriei o layout do youtube usando o grid como base. 🚀🛸
 
 [<img src='./src/images/layout-youtube.gif' alt='Layout Youtube'>](https://omarcerqueira.github.io/layout-youtube-com-grid/)
 
